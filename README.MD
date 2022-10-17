@@ -9,7 +9,4 @@
 - Strapi v4 supports
 
 ## License
-
 [MIT License](./LICENSE)
-
-<!-- End -->
