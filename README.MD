@@ -1,4 +1,4 @@
-[![strapi-sdk-python](docs/images/preview-light.png)]
+![strapi-sdk-python](docs/images/preview-light.png)
 
 # Strapi SDK Python
 
